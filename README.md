@@ -24,7 +24,7 @@ No JavaScript or third-party libraries were used.
 📁 Folder Structure
 
 
-Netflix-Clone---HTML-CSS/
+Netflix-Clone/
 ├── index.html
 ├── style.css
 └── images/
@@ -34,11 +34,11 @@ Netflix-Clone---HTML-CSS/
 
 1. Clone this repository:
    
-   git clone https://github.com/kshitijvarshikar/Netflix-Clone---HTML-CSS.git
+   git clone https://github.com/kshitijvarshikar/Netflix-Clone.git
    
 2. Navigate to the project folder:
    
-   cd Netflix-Clone---HTML-CSS
+   cd Netflix-Clone
    
 3. Open index.html in your browser
 
